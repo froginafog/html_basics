@@ -1,0 +1,54 @@
+body
+{
+	background: lightsteelblue;
+}
+			
+p
+{
+	color: purple;
+}
+			
+table
+{
+	background: lightgreen;
+	color: blue;
+	border: solid 2px navy;
+	text-align: left;
+	font-size: 20px;
+}
+			
+tr
+{
+	color: blue;
+	border: solid 2px navy;
+}
+			
+th
+{
+	color: blue;
+	border: solid 2px navy;
+}
+			
+td
+{
+	color: blue;
+	border: solid 2px navy;
+}
+			
+th:hover
+{
+	background: yellow;
+}
+			
+tr:hover 
+{
+	background: yellow;
+}  
+			
+td:hover 
+{
+	background: teal;
+	color: red;
+}  
+
+
