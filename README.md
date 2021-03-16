@@ -6,7 +6,7 @@ anything between angular brackets < > are part of the html structure/syntax
 
 For example, on the first file,
 copy the entire text into a text editor.
-Save it as index.html
+Save it as index.html .
 Open it with a web browser and see what appears on the webpage.
 Then, open the index.html file with a text editor.
 Make the following change.
